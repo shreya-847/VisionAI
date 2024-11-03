@@ -1,8 +1,4 @@
-# VisionAI
-Enhancing Situational Awareness for Visually Impaired Individuals.
-
-# VisionAI
-
+# VisionAI: Enhancing Situational Awareness for Visually Impaired Individuals.
 VisionAI is a project designed to assist visually impaired individuals by helping them understand their surroundings. The system utilizes a camera attached to glasses and integrates with an app via Bluetooth. The app processes real-time video data frame by frame, generates captions using CNN and LSTM models, refines these captions with an LLM, and provides the output as speech.
 
 ## Features
