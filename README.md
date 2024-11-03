@@ -1,5 +1,5 @@
 # VisionAI
-VisionAI is a project designed to assist visually impaired individuals by helping them understand their surroundings.
+Enhancing Situational Awareness for Visually Impaired Individuals.
 
 # VisionAI
 
